@@ -1,7 +1,7 @@
 # Azure Data Factory for Data Engineers - Project Covid 19
 
 <p align="center">
-  <img src="image_files/img-03.png" widht="50%" height="50%" />
+  <img src="image_files/image_adf.png" widht="50%" height="50%" />
 </p>
 
 ## ❗ Sobre
